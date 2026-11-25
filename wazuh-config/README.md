@@ -1,1 +1,1 @@
-
+#Wazuh Detection Rules & Integration.
